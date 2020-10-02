@@ -1,0 +1,95 @@
+Finished loading head_100_random_30.csv file
+30 records have been loaded
+2 records are printed out for the state of oregon
+date           positive    negative    hospitalized   onVentilatorCurrently    onVentilatorCumulative   recovered   dataQualityGrade   death   
+08/18/2020     23,676      472,662     1,929          20                       0                        4,468       A+                 397     
+08/17/2020     23,451      467,766     1,913          19                       0                        4,419       A+                 388     
+There are no records from new Jersey
+There are 14 records on 08/18/2020
+state   positive    negative    hospitalized   onVentilatorCurrently    onVentilatorCumulative   recovered   dataQualityGrade   death   
+AZ      194,920     909,077     20,878         260                      0                        28,027      A+                 4,529   
+FL      579,932     3,699,108   35,112         0                        0                        0           B                  9,893   
+GU      577         28,649      0              0                        0                        353         A                  5       
+HI      5,215       158,984     288            25                       0                        1,868       C                  40      
+KS      35,167      319,095     2,034          24                       200                      1,409       A+                 405     
+KY      40,299      686,601     4,252          0                        0                        9,233       B                  830     
+MD      101,235     1,066,070   13,698         0                        0                        6,008       A                  3,650   
+MN      66,061      937,245     5,932          0                        0                        59,568      A                  1,767   
+MO      69,417      798,064     0              116                      0                        0           A                  1,402   
+NH      7,017       179,890     712            0                        0                        6,333       B                  424     
+NC      146,779     1,804,341   0              0                        0                        127,749     A+                 2,396   
+OR      23,676      472,662     1,929          20                       0                        4,468       A+                 397     
+SD      10,443      119,570     927            0                        0                        9,126       A                  154     
+WI      71,424      1,075,397   5,380          0                        0                        57,382      A+                 1,059   
+Data Summary for 27 states:
+State   Total Case  Total Death   Total Hospitalized
+AL      109,004     1,925         12,958            
+AK      5,110       28            0                 
+AS      0           0             0                 
+AZ      194,920     4,529         20,878            
+AR      53,077      603           3,621             
+CA      628,031     11,242        0                 
+CO      53,176      1,768         6,735             
+DE      16,536      593           0                 
+DC      13,273      597           0                 
+FL      579,932     9,893         35,112            
+GA      238,861     4,727         22,133            
+GU      577         5             0                 
+HI      5,215       40            288               
+ID      27,660      269           1,110             
+KS      70,334      810           4,068             
+KY      40,299      830           4,252             
+MD      101,235     3,650         13,698            
+MN      66,061      1,767         5,932             
+MO      138,040     2,798         0                 
+NH      7,017       424           712               
+NM      23,408      714           2,965             
+NC      146,779     2,396         0                 
+ND      8,647       105           461               
+OR      47,127      785           3,842             
+PA      124,844     7,468         0                 
+SD      10,443      154           927               
+WI      71,424      1,059         5,380             
+Total Cases: 2,781,030
+Total Death: 59,179
+Total Hospitalized: 145,072
+Low quality data rejected for FL
+Low quality data rejected for WI
+Low quality data rejected for GU
+Low quality data rejected for AK
+Low quality data rejected for KY
+Low quality data rejected for HI
+Low quality data rejected for GA
+Low quality data rejected for MO
+Low quality data rejected for DE
+Low quality data rejected for OR
+Low quality data rejected for AS
+Finished loading head_200_random_70.csv file
+59 records have been loaded
+1 records are printed out for the state of new Jersey
+date           positive    negative    hospitalized   onVentilatorCurrently    onVentilatorCumulative   recovered   dataQualityGrade   death   
+08/18/2020     188,098     2,344,647   22,259         41                       0                        33,403      A+                 15,925  
+1 records are printed out for the state of KY
+date           positive    negative    hospitalized   onVentilatorCurrently    onVentilatorCumulative   recovered   dataQualityGrade   death   
+08/18/2020     40,299      686,601     4,252          0                        0                        9,233       B                  830     
+There are 18 records on 08/16/2020
+state   positive    negative    hospitalized   onVentilatorCurrently    onVentilatorCumulative   recovered   dataQualityGrade   death   
+AL      108,433     737,991     12,607         0                        720                      41,523      B                  1,898   
+AS      0           1,514       0              0                        0                        0           C                  0       
+AZ      193,537     898,437     20,755         267                      0                        27,582      A+                 4,506   
+DE      16,451      193,934     0              0                        0                        8,671       A+                 593     
+DC      13,220      229,632     0              9                        0                        10,493      A+                 597     
+FL      573,416     3,659,212   34,341         0                        0                        0           A                  9,587   
+GU      516         27,257      0              0                        0                        345         A                  5       
+IN      80,415      826,436     9,935          92                       0                        59,801      A+                 3,133   
+LA      137,918     1,520,169   0              189                      0                        103,512     A                  4,507   
+MD      100,212     1,042,198   13,614         0                        0                        6,004       A                  3,639   
+MA      123,200     1,326,768   12,173         28                       0                        100,486     A+                 8,829   
+MI      102,259     2,218,791   0              87                       0                        67,778      A+                 6,592   
+MO      67,475      778,143     0              121                      0                        0           A                  1,367   
+ND      8,587       171,213     459            0                        0                        7,249       C                  105     
+OH      108,287     1,721,358   12,236         161                      0                        86,926      A+                 3,826   
+SD      10,274      118,500     916            0                        0                        8,939       A                  153     
+VI      741         11,430      0              0                        0                        523         C                  9       
+WI      70,246      1,060,533   5,304          0                        0                        55,982      A+                 1,046   
+89 records have been saved in the xyz13da.csv file

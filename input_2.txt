@@ -1,0 +1,11 @@
+load       head_200_random_70.csv
+search  pH    3
+    search New     York 1
+   search 07/01/2020
+search Mo 1   
+search      haWaii 5
+    search 08/17/2020  
+load head_100_random_30.csv
+             search 08/18/2020
+summarydata
+search

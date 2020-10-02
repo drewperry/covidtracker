@@ -1,0 +1,158 @@
+Finished loading head_200_random_70.csv file
+70 records have been loaded
+State of pH does not exist!
+There are no records from New York
+There are no records on 07/01/2020
+1 records are printed out for the state of Mo
+date           positive    negative    hospitalized   onVentilatorCurrently    onVentilatorCumulative   recovered   dataQualityGrade   death   
+08/18/2020     69,417      798,064     0              116                      0                        0           A                  1,402   
+3 records are printed out for the state of haWaii
+date           positive    negative    hospitalized   onVentilatorCurrently    onVentilatorCumulative   recovered   dataQualityGrade   death   
+08/18/2020     5,215       158,984     288            25                       0                        1,868       C                  40      
+08/17/2020     5,042       156,906     283            25                       0                        1,841       C                  40      
+08/15/2020     4,543       151,723     277            22                       0                        1,756       C                  40      
+There are 23 records on 08/17/2020
+state   positive    negative    hospitalized   onVentilatorCurrently    onVentilatorCumulative   recovered   dataQualityGrade   death   
+AK      5,110       300,538     0              4                        0                        1,432       A                  28      
+AS      0           1,514       0              0                        0                        0           C                  0       
+CT      51,267      930,701     11,015         0                        0                        8,809       B                  4,456   
+DE      16,536      196,102     0              0                        0                        8,713       A+                 593     
+FL      576,094     3,676,782   34,607         0                        0                        0           B                  9,674   
+GA      238,861     1,788,556   22,133         0                        0                        0           A                  4,727   
+HI      5,042       156,906     283            25                       0                        1,841       C                  40      
+IN      81,006      833,627     9,973          95                       0                        60,677      A+                 3,135   
+LA      138,485     1,535,804   0              184                      0                        103,512     A                  4,526   
+ME      4,197       208,357     399            1                        0                        3,638       A+                 127     
+MD      100,715     1,056,897   13,658         0                        0                        6,008       A                  3,641   
+MA      123,413     1,341,501   12,178         22                       0                        100,486     A+                 8,833   
+MT      5,792       198,933     330            0                        0                        4,162       C                  82      
+NJ      187,767     2,323,303   22,218         38                       0                        33,381      A+                 15,916  
+MP      53          12,867      4              0                        0                        29          D                  2       
+OH      109,062     1,739,954   12,319         175                      0                        87,764      A+                 3,832   
+OK      48,711      706,619     4,021          0                        0                        40,531      A+                 665     
+OR      23,451      467,766     1,913          19                       0                        4,419       A+                 388     
+TN      134,744     1,736,364   5,881          173                      0                        94,812      A+                 1,387   
+UT      46,894      554,901     2,782          0                        286                      38,132      A+                 364     
+VI      760         11,658      0              0                        0                        525         C                  9       
+WV      8,632       352,207     0              19                       0                        6,531       B                  160     
+WY      3,331       57,567      195            0                        0                        2,699       B                  33      
+Low quality data rejected for GA
+Low quality data rejected for WI
+Low quality data rejected for AS
+Low quality data rejected for HI
+Low quality data rejected for DE
+Low quality data rejected for KY
+Low quality data rejected for MO
+Low quality data rejected for GU
+Low quality data rejected for FL
+Low quality data rejected for AK
+Low quality data rejected for OR
+Finished loading head_100_random_30.csv file
+19 records have been loaded
+There are 26 records on 08/18/2020
+state   positive    negative    hospitalized   onVentilatorCurrently    onVentilatorCumulative   recovered   dataQualityGrade   death   
+AK      5,177       304,832     0              7                        0                        1,468       A                  29      
+AZ      194,920     909,077     20,878         260                      0                        28,027      A+                 4,529   
+DE      16,593      197,252     0              0                        0                        8,749       A+                 593     
+DC      13,325      236,153     0              14                       0                        10,595      A+                 599     
+FL      579,932     3,699,108   35,112         0                        0                        0           B                  9,893   
+GA      241,677     1,818,642   22,429         0                        0                        0           A                  4,794   
+GU      577         28,649      0              0                        0                        353         A                  5       
+HI      5,215       158,984     288            25                       0                        1,868       C                  40      
+IL      210,926     3,229,678   0              128                      0                        0           A                  7,993   
+IN      81,847      846,767     10,037         94                       0                        61,518      A+                 3,165   
+KS      35,167      319,095     2,034          24                       200                      1,409       A+                 405     
+KY      40,299      686,601     4,252          0                        0                        9,233       B                  830     
+MD      101,235     1,066,070   13,698         0                        0                        6,008       A                  3,650   
+MI      103,403     2,259,122   0              89                       0                        67,778      A+                 6,608   
+MN      66,061      937,245     5,932          0                        0                        59,568      A                  1,767   
+MO      69,417      798,064     0              116                      0                        0           A                  1,402   
+NH      7,017       179,890     712            0                        0                        6,333       B                  424     
+NJ      188,098     2,344,647   22,259         41                       0                        33,403      A+                 15,925  
+NC      146,779     1,804,341   0              0                        0                        127,749     A+                 2,396   
+OK      49,326      725,674     4,115          0                        0                        41,370      A+                 682     
+OR      23,676      472,662     1,929          20                       0                        4,468       A+                 397     
+SC      107,672     770,809     7,146          173                      0                        54,194      A+                 2,343   
+SD      10,443      119,570     927            0                        0                        9,126       A                  154     
+TN      135,778     1,758,594   5,981          183                      0                        96,896      A+                 1,426   
+WA      67,721      950,107     6,296          39                       0                        0           B                  1,785   
+WI      71,424      1,075,397   5,380          0                        0                        57,382      A+                 1,059   
+Data Summary for 46 states:
+State   Total Case  Total Death   Total Hospitalized
+AL      325,017     5,719         38,172            
+AK      10,287      57            0                 
+AS      0           0             0                 
+AZ      388,457     9,035         41,633            
+AR      105,069     1,203         7,183             
+CA      628,031     11,242        0                 
+CO      53,176      1,768         6,735             
+CT      51,267      4,456         11,015            
+DE      65,976      2,372         0                 
+DC      39,818      1,793         0                 
+FL      2,299,079   38,634        138,134           
+GA      480,538     9,521         44,562            
+GU      1,093       10            0                 
+HI      14,800      120           848               
+ID      27,660      269           1,110             
+IL      210,926     7,993         0                 
+IN      322,944     12,561        39,817            
+KS      70,334      810           4,068             
+KY      40,299      830           4,252             
+LA      413,140     13,463        0                 
+ME      8,341       254           798               
+MD      401,855     14,566        54,526            
+MA      369,510     26,480        36,521            
+MI      205,662     13,200        0                 
+MN      66,061      1,767         5,932             
+MO      205,515     4,165         0                 
+MT      5,792       82            330               
+NH      7,017       424           712               
+NJ      375,865     31,841        44,477            
+NM      23,408      714           2,965             
+NC      146,779     2,396         0                 
+ND      17,234      210           920               
+MP      53          2             4                 
+OH      217,349     7,658         24,555            
+OK      98,037      1,347         8,136             
+OR      47,127      785           3,842             
+PA      124,844     7,468         0                 
+SC      107,672     2,343         7,146             
+SD      20,717      307           1,843             
+TN      270,522     2,813         11,862            
+UT      46,894      364           2,782             
+VI      1,501       18            0                 
+WA      67,721      1,785         6,296             
+WV      8,632       160           0                 
+WI      141,670     2,105         10,684            
+WY      3,331       33            195               
+Total Cases: 8,537,020
+Total Death: 245,143
+Total Hospitalized: 562,055
+There are 26 records on 08/18/2020
+state   positive    negative    hospitalized   onVentilatorCurrently    onVentilatorCumulative   recovered   dataQualityGrade   death   
+AK      5,177       304,832     0              7                        0                        1,468       A                  29      
+AZ      194,920     909,077     20,878         260                      0                        28,027      A+                 4,529   
+DE      16,593      197,252     0              0                        0                        8,749       A+                 593     
+DC      13,325      236,153     0              14                       0                        10,595      A+                 599     
+FL      579,932     3,699,108   35,112         0                        0                        0           B                  9,893   
+GA      241,677     1,818,642   22,429         0                        0                        0           A                  4,794   
+GU      577         28,649      0              0                        0                        353         A                  5       
+HI      5,215       158,984     288            25                       0                        1,868       C                  40      
+IL      210,926     3,229,678   0              128                      0                        0           A                  7,993   
+IN      81,847      846,767     10,037         94                       0                        61,518      A+                 3,165   
+KS      35,167      319,095     2,034          24                       200                      1,409       A+                 405     
+KY      40,299      686,601     4,252          0                        0                        9,233       B                  830     
+MD      101,235     1,066,070   13,698         0                        0                        6,008       A                  3,650   
+MI      103,403     2,259,122   0              89                       0                        67,778      A+                 6,608   
+MN      66,061      937,245     5,932          0                        0                        59,568      A                  1,767   
+MO      69,417      798,064     0              116                      0                        0           A                  1,402   
+NH      7,017       179,890     712            0                        0                        6,333       B                  424     
+NJ      188,098     2,344,647   22,259         41                       0                        33,403      A+                 15,925  
+NC      146,779     1,804,341   0              0                        0                        127,749     A+                 2,396   
+OK      49,326      725,674     4,115          0                        0                        41,370      A+                 682     
+OR      23,676      472,662     1,929          20                       0                        4,468       A+                 397     
+SC      107,672     770,809     7,146          173                      0                        54,194      A+                 2,343   
+SD      10,443      119,570     927            0                        0                        9,126       A                  154     
+TN      135,778     1,758,594   5,981          183                      0                        96,896      A+                 1,426   
+WA      67,721      950,107     6,296          39                       0                        0           B                  1,785   
+WI      71,424      1,075,397   5,380          0                        0                        57,382      A+                 1,059   
