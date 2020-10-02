@@ -231,15 +231,21 @@ public class Command {
      * Prints out a summary of the data
      */
     public static void summaryData() {
-        // print data
+        // print data 
         int size = Covid19TrackingManager.getStateKey().size();
         System.out.println("Data Summary for " + size + " states:");
         System.out.println(Record.getSUMMARYHEADER());
         int totalCases = 0;
         int totalDeaths = 0;
         int totalHospitalized = 0;
-        for (ArrayList<Record> value : Covid19TrackingManager.getStateKey()
-            .values()) {
+//        for (ArrayList<Record> value : Covid19TrackingManager.getStateKey()
+//            .values()) {
+        for (String s : Record.states().values()) {
+            ArrayList<Record> value = Covid19TrackingManager.getStateKey()
+                .get(s);
+            if (value == null) {
+                continue;
+            }
             int cases = 0;
             int deaths = 0;
             int hospitalized = 0;

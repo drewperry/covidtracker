@@ -10,6 +10,7 @@ import student.TestCase;
 /**
  * 
  * @author Drew Perry (andrewperry)
+ * @author Avni Trasi (avnitrasi)
  * @version 1
  */
 public class CommandTest extends TestCase {

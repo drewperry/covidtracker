@@ -226,11 +226,11 @@ public class Record implements Comparable<Record> {
             + "," + header[4] + "," + header[5] + "," + header[6] + ","
             + header[7] + "," + header[8] + "," + header[9]);
         setSTATEHEADER(String.format(
-            "%-15s%-12s%-15s%-15s%-24s%-26s%-12s%-19s%-8s", header[0],
+            "%-15s%-12s%-12s%-15s%-25s%-25s%-12s%-19s%-8s", header[0],
             header[2], header[3], header[4], header[5], header[6], header[7],
             header[8], header[9]));
         setDATEHEADER(String.format(
-            "%-8s%-12s%-15s%-15s%-24s%-26s%-12s%-19s%-8s", header[1], header[2],
+            "%-8s%-12s%-12s%-15s%-25s%-25s%-12s%-19s%-8s", header[1], header[2],
             header[3], header[4], header[5], header[6], header[7], header[8],
             header[9]));
         setSUMMARYHEADER(String.format("%-8s%-12s%-14s%-18s", "State",
@@ -409,7 +409,7 @@ public class Record implements Comparable<Record> {
      */
     public String toStringDate() {
         return String.format(
-            "%-8s%,-12d%,-15d%,-15d%,-24d%,-26d%,-12d%-19s%,-8d", state,
+            "%-8s%,-12d%,-12d%,-15d%,-25d%,-25d%,-12d%-19s%,-8d", state,
             (int) Float.parseFloat(positive), (int) Float.parseFloat(negative),
             (int) Float.parseFloat(hospitalized),
             (int) Float.parseFloat(onVentilatorCurrently),
@@ -424,7 +424,7 @@ public class Record implements Comparable<Record> {
      */
     public String toStringState() {
         return String.format(
-            "%-15s%,-12d%,-15d%,-15d%,-24d%,-26d%,-12d%-19s%,-8d",
+            "%-15s%,-12d%,-12d%,-15d%,-25d%,-25d%,-12d%-19s%,-8d",
             date.substring(4, 6) + "/" + date.substring(6) + "/"
                 + date.substring(0, 4),
             (int) Float.parseFloat(positive), (int) Float.parseFloat(negative),
