@@ -83,6 +83,7 @@ public class Covid19TrackingManager {
                 || record.getDate().trim().length() != 8
                 || record.getDataQualityGrade().trim().equals("")) {
                 System.out.println("Discard invalid record");
+                   //*********talk to Drew********** Command.setLines(Command.getLines() - 1);
             } 
             else {
                 array.add(record);

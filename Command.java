@@ -50,7 +50,10 @@ public class Command {
     public static void execute(String command) {
         command = command.trim();
         if (command.trim().startsWith("load")) {
-            load((command.split(" +")[1]).trim());
+		String load[] = command.split(" +");
+		if (load.length == 2) {
+            		load((load[1]).trim());
+		}
         } 
         else if (command.trim().startsWith("search")) {
             String[] array = command.split(" +");
